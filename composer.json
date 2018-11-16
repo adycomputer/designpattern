@@ -1,2 +1,10 @@
 {
+    "name": "ajay/designpattern",
+    "authors": [
+        {
+            "name": "A",
+            "email": "adycomputer@gmail.com"
+        }
+    ],
+    "require": {}
 }
